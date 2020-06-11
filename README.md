@@ -1,1 +1,3 @@
-# OOD8
+# Object Oriented Design - 8
+
+## Design Chess
